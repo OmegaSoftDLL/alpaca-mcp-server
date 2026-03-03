@@ -30,4 +30,4 @@ build/
 Thumbs.db
 
 # Project-specific
-_collection/
+_collection/options_analytics.log
