@@ -22,8 +22,12 @@ build/
 # IDE
 .vscode/
 .idea/
+.cursor/
+.claude/
 *.swp
 *.swo
+
+.scratch/
 
 # OS
 .DS_Store
